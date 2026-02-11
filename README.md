@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/MinzLong/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/MinzLong/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0066-plus-one](https://github.com/MinzLong/Leetcode/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,6 +21,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/MinzLong/Leetcode/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/MinzLong/Leetcode/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/MinzLong/Leetcode/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
