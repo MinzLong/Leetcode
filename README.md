@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/MinzLong/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0066-plus-one](https://github.com/MinzLong/Leetcode/tree/master/0066-plus-one) |
 | [0198-house-robber](https://github.com/MinzLong/Leetcode/tree/master/0198-house-robber) |
+| [0485-max-consecutive-ones](https://github.com/MinzLong/Leetcode/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
