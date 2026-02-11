@@ -22,6 +22,7 @@
 | [0002-add-two-numbers](https://github.com/MinzLong/Leetcode/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/MinzLong/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/MinzLong/Leetcode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/MinzLong/Leetcode/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -46,8 +47,13 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/MinzLong/Leetcode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/MinzLong/Leetcode/tree/master/0070-climbing-stairs) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/MinzLong/Leetcode/tree/master/0062-unique-paths) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/MinzLong/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
