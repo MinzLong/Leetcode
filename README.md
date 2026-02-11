@@ -9,11 +9,13 @@
 | [0066-plus-one](https://github.com/MinzLong/Leetcode/tree/master/0066-plus-one) |
 | [0198-house-robber](https://github.com/MinzLong/Leetcode/tree/master/0198-house-robber) |
 | [0485-max-consecutive-ones](https://github.com/MinzLong/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0740-delete-and-earn](https://github.com/MinzLong/Leetcode/tree/master/0740-delete-and-earn) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MinzLong/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MinzLong/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0740-delete-and-earn](https://github.com/MinzLong/Leetcode/tree/master/0740-delete-and-earn) |
 ## Linked List
 |  |
 | ------- |
@@ -54,6 +56,7 @@
 | [0070-climbing-stairs](https://github.com/MinzLong/Leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/MinzLong/Leetcode/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/MinzLong/Leetcode/tree/master/0509-fibonacci-number) |
+| [0740-delete-and-earn](https://github.com/MinzLong/Leetcode/tree/master/0740-delete-and-earn) |
 ## Combinatorics
 |  |
 | ------- |
