@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/MinzLong/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/MinzLong/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0066-plus-one](https://github.com/MinzLong/Leetcode/tree/master/0066-plus-one) |
+| [0198-house-robber](https://github.com/MinzLong/Leetcode/tree/master/0198-house-robber) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/MinzLong/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/MinzLong/Leetcode/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/MinzLong/Leetcode/tree/master/0198-house-robber) |
 ## Combinatorics
 |  |
 | ------- |
