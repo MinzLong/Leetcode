@@ -13,6 +13,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/MinzLong/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0840-magic-squares-in-grid](https://github.com/MinzLong/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/MinzLong/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/MinzLong/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 | [0740-delete-and-earn](https://github.com/MinzLong/Leetcode/tree/master/0740-delete-and-earn) |
 | [0756-pyramid-transition-matrix](https://github.com/MinzLong/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/MinzLong/Leetcode/tree/master/0840-magic-squares-in-grid) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/MinzLong/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Linked List
 |  |
 | ------- |
