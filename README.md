@@ -17,6 +17,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MinzLong/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/MinzLong/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1470-shuffle-the-array](https://github.com/MinzLong/Leetcode/tree/master/1470-shuffle-the-array) |
+| [1929-concatenation-of-array](https://github.com/MinzLong/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -115,4 +116,8 @@
 |  |
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/MinzLong/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/MinzLong/Leetcode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
