@@ -18,6 +18,7 @@
 | [1458-max-dot-product-of-two-subsequences](https://github.com/MinzLong/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1470-shuffle-the-array](https://github.com/MinzLong/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/MinzLong/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MinzLong/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +62,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MinzLong/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MinzLong/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MinzLong/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -120,4 +122,8 @@
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/MinzLong/Leetcode/tree/master/1929-concatenation-of-array) |
+## Counting
+|  |
+| ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MinzLong/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
