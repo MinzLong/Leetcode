@@ -14,6 +14,7 @@
 | [0840-magic-squares-in-grid](https://github.com/MinzLong/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/MinzLong/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/MinzLong/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MinzLong/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MinzLong/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MinzLong/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -93,6 +95,7 @@
 |  |
 | ------- |
 | [0840-magic-squares-in-grid](https://github.com/MinzLong/Leetcode/tree/master/0840-magic-squares-in-grid) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MinzLong/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Tree
 |  |
 | ------- |
