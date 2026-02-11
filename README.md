@@ -36,6 +36,7 @@
 | [0070-climbing-stairs](https://github.com/MinzLong/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/MinzLong/Leetcode/tree/master/0509-fibonacci-number) |
 | [0840-magic-squares-in-grid](https://github.com/MinzLong/Leetcode/tree/master/0840-magic-squares-in-grid) |
+| [1137-n-th-tribonacci-number](https://github.com/MinzLong/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
@@ -69,6 +70,7 @@
 | [0740-delete-and-earn](https://github.com/MinzLong/Leetcode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/MinzLong/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/MinzLong/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1137-n-th-tribonacci-number](https://github.com/MinzLong/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Combinatorics
 |  |
 | ------- |
@@ -78,6 +80,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/MinzLong/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/MinzLong/Leetcode/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/MinzLong/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Backtracking
 |  |
 | ------- |
