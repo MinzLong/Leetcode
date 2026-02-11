@@ -17,6 +17,7 @@
 | [0001-two-sum](https://github.com/MinzLong/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MinzLong/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0740-delete-and-earn](https://github.com/MinzLong/Leetcode/tree/master/0740-delete-and-earn) |
+| [0756-pyramid-transition-matrix](https://github.com/MinzLong/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 ## Linked List
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MinzLong/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0756-pyramid-transition-matrix](https://github.com/MinzLong/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -68,4 +70,12 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/MinzLong/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/MinzLong/Leetcode/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0756-pyramid-transition-matrix](https://github.com/MinzLong/Leetcode/tree/master/0756-pyramid-transition-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0756-pyramid-transition-matrix](https://github.com/MinzLong/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 <!---LeetCode Topics End-->
