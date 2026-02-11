@@ -19,6 +19,7 @@
 | [1470-shuffle-the-array](https://github.com/MinzLong/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/MinzLong/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MinzLong/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/MinzLong/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Hash Table
 |  |
 | ------- |
@@ -126,4 +127,12 @@
 |  |
 | ------- |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MinzLong/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## Greedy
+|  |
+| ------- |
+| [3075-maximize-happiness-of-selected-children](https://github.com/MinzLong/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
+## Sorting
+|  |
+| ------- |
+| [3075-maximize-happiness-of-selected-children](https://github.com/MinzLong/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 <!---LeetCode Topics End-->
