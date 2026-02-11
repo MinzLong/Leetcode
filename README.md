@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MinzLong/Leetcode/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/MinzLong/Leetcode/tree/master/0062-unique-paths) |
 ## Recursion
 |  |
 | ------- |
@@ -39,4 +40,12 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MinzLong/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/MinzLong/Leetcode/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/MinzLong/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
