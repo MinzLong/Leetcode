@@ -15,6 +15,7 @@
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/MinzLong/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/MinzLong/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MinzLong/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/MinzLong/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,6 +74,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/MinzLong/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/MinzLong/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1137-n-th-tribonacci-number](https://github.com/MinzLong/Leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/MinzLong/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Combinatorics
 |  |
 | ------- |
